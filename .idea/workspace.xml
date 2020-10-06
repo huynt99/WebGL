@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03206e99-9dcb-467a-87a5-e82b896753e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/web gl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cuon-matrix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/cuon-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/webgl-debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/webgl-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p1/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p2/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p3/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p4/style.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web gl" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iWH6G93ZeSoplaaFV6UDA0zo1s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03206e99-9dcb-467a-87a5-e82b896753e9" name="Default Changelist" comment="" />
+      <created>1602016596699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602016596699</updated>
+      <workItem from="1602016620098" duration="4514000" />
+      <workItem from="1602022017277" duration="1251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="59" width="800" height="684" key="#Inspections" timestamp="1602020713688">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="249" y="59" width="800" height="684" key="#Inspections/0.27.1308.741@0.27.1308.741" timestamp="1602020713688" />
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1602022019238">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog/0.27.1308.741@0.27.1308.741" timestamp="1602022019238" />
+  </component>
+</project>
