@@ -12,8 +12,10 @@ var FSHADER_SOURCE =
     '  gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0);\n' +
     '}\n';
 
+var countClick = 0;
+
 function main() {
-    var canvas = document.getElementById("p4");
+    var canvas = document.getElementById("ex4");
     if (!canvas) {
         console.log("false");
     }
@@ -39,7 +41,6 @@ function main() {
 }
 
 var g_points = [];
-
 
 function click(ev, gl, canvas, a_Position) {
     var x = ev.clientX;

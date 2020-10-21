@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script language="javascript">
+        function check() {
+            if (myform.name.value == '') alert('nhap username');
+            else {
+                if (myform.name.value == 'huy') document.write("tên của bạn nhập đúng" + myform.name.value);
+                else alert("tên của bạn không đúng ")
+            }
+
+            if (myform.pass.value == '') alert('nhap password');
+            else {
+                if (myform.pass.value == 'huy') document.write("password của bạn nhập đúng" + myform.pass.value);
+                else alert("tên của bạn không đúng ")
+            }
+        }
+    </script>
+</head>
+<body>
+<form name="myform">
+    <H2> Nhập tên của bạn </H2>
+    <input name="name" type="text">
+    <H2> Nhập password </H2>
+    <input name="pass" type="password">
+    <hr>
+    <input type="button" value="check" Onclick="check()">
+</form>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script language="javascript">
+        function tatnut() {
+            if (myform.tat.checked == true) {
+                myform.bat.checked = false;
+                document.bgColor = 'black';
+            }
+        }
+
+        function batnut() {
+            if (myform.bat.checked == true) {
+                myform.tat.checked = false;
+                document.bgColor = 'white';
+            }
+        }
+    </script>
+</head>
+<body>
+<form name="myform">
+    <input type="radio" name="tat" Onclick="tatnut();"> nút tắt
+    <input type="radio" name="bat" Onclick="batnut();"> nút bật
+</form>
+</body>
+</html>

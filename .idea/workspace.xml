@@ -2,22 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03206e99-9dcb-467a-87a5-e82b896753e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web gl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cuon-matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/cuon-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/webgl-debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/webgl-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p1/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p3/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/ex9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th1/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/color.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex1/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex2/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex3/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th2/ex4/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p1/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/p1/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p4/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/p4/style.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +40,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,7 +50,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iWH6G93ZeSoplaaFV6UDA0zo1s" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -55,13 +62,47 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/th2/ex4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/th1/pII/ex1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/th2/ex4" />
+      <recent name="$PROJECT_DIR$/th2/ex3" />
+      <recent name="$PROJECT_DIR$/th2/ex2" />
+      <recent name="$PROJECT_DIR$/p1" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex4/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="style.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/th2/ex3/style.js" working-dir="$PROJECT_DIR$/th2/ex3">
+      <method v="2" />
+    </configuration>
+    <configuration name="style.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/th2/ex4/style.js" working-dir="$PROJECT_DIR$/th2/ex4">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="Node.js.style.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="Node.js.style.js (2)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -75,6 +116,10 @@
       <updated>1602016596699</updated>
       <workItem from="1602016620098" duration="4514000" />
       <workItem from="1602022017277" duration="1251000" />
+      <workItem from="1602036032590" duration="493000" />
+      <workItem from="1602058728144" duration="1262000" />
+      <workItem from="1602082255018" duration="739000" />
+      <workItem from="1603262854474" duration="5317000" />
     </task>
     <servers />
   </component>
@@ -86,9 +131,55 @@
       <screen x="0" y="27" width="1308" height="741" />
     </state>
     <state x="249" y="59" width="800" height="684" key="#Inspections/0.27.1308.741@0.27.1308.741" timestamp="1602020713688" />
-    <state x="310" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1602022019238">
+    <state x="404" y="47" width="489" height="708" key="#ex9.html" timestamp="1603264888712">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state x="310" y="225" key="com.intellij.ide.util.TipDialog/0.27.1308.741@0.27.1308.741" timestamp="1602022019238" />
+    <state x="404" y="47" width="489" height="708" key="#ex9.html/0.27.1308.741@0.27.1308.741" timestamp="1603264888712" />
+    <state x="418" y="177" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602082392620">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="418" y="177" key="FileChooserDialogImpl/0.27.1308.741@0.27.1308.741" timestamp="1602082392620" />
+    <state x="768" y="1235" width="424" height="491" key="FileChooserDialogImpl/331.1080.1366.768/0.0.1639.1080@331.1080.1366.768" timestamp="1602036528830" />
+    <state width="1262" height="215" key="GridCell.Tab.0.bottom" timestamp="1603266356768">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.0.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603266356768" />
+    <state width="1262" height="215" key="GridCell.Tab.0.center" timestamp="1603266356767">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.0.center/0.27.1308.741@0.27.1308.741" timestamp="1603266356767" />
+    <state width="1262" height="215" key="GridCell.Tab.0.left" timestamp="1603266356766">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.0.left/0.27.1308.741@0.27.1308.741" timestamp="1603266356766" />
+    <state width="1262" height="215" key="GridCell.Tab.0.right" timestamp="1603266356767">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.0.right/0.27.1308.741@0.27.1308.741" timestamp="1603266356767" />
+    <state width="1262" height="215" key="GridCell.Tab.1.bottom" timestamp="1603266356770">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.1.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603266356770" />
+    <state width="1262" height="215" key="GridCell.Tab.1.center" timestamp="1603266356769">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.1.center/0.27.1308.741@0.27.1308.741" timestamp="1603266356769" />
+    <state width="1262" height="215" key="GridCell.Tab.1.left" timestamp="1603266356768">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.1.left/0.27.1308.741@0.27.1308.741" timestamp="1603266356768" />
+    <state width="1262" height="215" key="GridCell.Tab.1.right" timestamp="1603266356769">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state width="1262" height="215" key="GridCell.Tab.1.right/0.27.1308.741@0.27.1308.741" timestamp="1603266356769" />
+    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603263591518">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1308.741@0.27.1308.741" timestamp="1603263591518" />
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1602082346861">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog/0.27.1308.741@0.27.1308.741" timestamp="1602082346861" />
+    <state x="388" y="289" key="com.intellij.ide.util.TipDialog/331.1080.1366.768/0.0.1639.1080@0.0.1639.1080" timestamp="1602036032785" />
   </component>
 </project>

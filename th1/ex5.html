@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script language="javascript">
+        function check() {
+            if (myform.name.value == 'huy') document.write(" ten của bạn hợp lệ, " + myform.name.value);
+            else alert("bạn chưa đủ tuổi ")
+        }
+    </script>
+
+</head>
+
+<body>
+<form name="myform">
+    <H2> Nhập tên của bạn </H2>
+    <input name="name" type="text">
+    <H2> Nhập tuổi của bạn </H2>
+    <input name="tuoi" type="number">
+    <hr>
+    <input type="button" value="check" Onclick="check()">
+</form>
+</body>
+</html>

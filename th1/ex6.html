@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tinh toan</title>
+    <script language="javascript">
+        function tinhtoan() {
+            myform.ketqua.value = eval(myform.bieuthuc.value)
+        }
+    </script>
+</head>
+<body>
+<form name="myform">
+    <H2> Nhập biểu thức </H2>
+    <input name="bieuthuc" type="text" size=35>
+    <H2> kết quả </H2>
+    <input name="ketqua" type="text" size=35>
+    <hr>
+    <input type="button" value="Tính toán" Onclick="tinhtoan()">
+</form>
+</body>
+</html>
