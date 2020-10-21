@@ -1,8 +1,9 @@
 // vẽ 1 điểm
 var VSHADER_SOURCE =
+    'attribute vec4 a_PointSize;\n' +
     'void main() {\n' +
     '  gl_Position = vec4(0.9, -0.9, 0.0, 1.0);\n' +
-    '  gl_PointSize = 20.0;\n' +
+    '  gl_PointSize = a_PointSize;\n' +
     '}\n';
 
 var FSHADER_SOURCE =
@@ -12,6 +13,7 @@ var FSHADER_SOURCE =
 
 function main() {
     var canvas = document.getElementById("ex3");
+    let a_PointSize = document.getElementById("glSize")
     if (!canvas) {
         console.log("false");
     }
@@ -22,3 +24,4 @@ function main() {
     gl.clear(gl.COLOR_BUFFER_BIT);
     gl.drawArrays(gl.POINTS, 0, 1);
 }
+

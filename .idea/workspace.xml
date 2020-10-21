@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03206e99-9dcb-467a-87a5-e82b896753e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/th1/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/ex9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th1/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/color.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex1/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex2/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex3/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/th2/ex4/style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/p1/style.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p4/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/p4/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/th2/ex3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/th2/ex3/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex3/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/th2/ex4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/th2/ex4/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex4/style.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +103,7 @@
       <workItem from="1602036032590" duration="493000" />
       <workItem from="1602058728144" duration="1262000" />
       <workItem from="1602082255018" duration="739000" />
-      <workItem from="1603262854474" duration="5317000" />
+      <workItem from="1603262854474" duration="6432000" />
     </task>
     <servers />
   </component>

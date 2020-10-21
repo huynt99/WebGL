@@ -12,8 +12,6 @@ var FSHADER_SOURCE =
     '  gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0);\n' +
     '}\n';
 
-var countClick = 0;
-
 function main() {
     var canvas = document.getElementById("ex4");
     if (!canvas) {
@@ -30,14 +28,19 @@ function main() {
     if (a_Position < 0) {
         console.log('Failed to get the storage location of a_Position');
         return;
+    } else if (0 <= a_Position <= 4) {
+
+        canvas.onmousedown = function (ev) {
+            click(ev, gl, canvas, a_Position);
+        };
+
+        gl.clearColor(0.0, 0.0, 0.0, 1.0);
+        gl.clear(gl.COLOR_BUFFER_BIT);
+    } else if (a_Position == 5) {
+        gl.clearColor(1.0, 1.0, 0.0, 1.0);
+        gl.clear(gl.COLOR_BUFFER_BIT);
+        a_Position = 0;
     }
-
-    canvas.onmousedown = function (ev) {
-        click(ev, gl, canvas, a_Position);
-    };
-
-    gl.clearColor(0.0, 0.0, 0.0, 1.0);
-    gl.clear(gl.COLOR_BUFFER_BIT);
 }
 
 var g_points = [];
