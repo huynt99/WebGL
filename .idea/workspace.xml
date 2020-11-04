@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03206e99-9dcb-467a-87a5-e82b896753e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/b2e1VeNen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b2e1VeNen/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b2e2VeDiem/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b2e2VeDiem/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b2e3BienThuocTinh/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b2e3BienThuocTinh/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b3e1ClickChuot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/b3e1ClickChuot/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th3/ex1/HelloTriangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th3/ex1/HelloTriangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th3/ex2/HelloTriangle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/th3/ex2/HelloTriangle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/th2/ex3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/th2/ex3/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex3/style.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/th2/ex4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/th2/ex4/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/th2/ex4/style.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,45 +54,46 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/th2/ex4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/th3/ex2" />
+      <recent name="$PROJECT_DIR$/th3/ex1" />
+      <recent name="$PROJECT_DIR$/example/b3e1" />
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/th2/ex4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/th1/pII/ex1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/th2/ex4" />
-      <recent name="$PROJECT_DIR$/th2/ex3" />
-      <recent name="$PROJECT_DIR$/th2/ex2" />
-      <recent name="$PROJECT_DIR$/p1" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex3/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.HelloTriangle.html (1)">
+    <configuration name="HelloTriangle.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3343/web gl/th3/ex2/HelloTriangle.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex4/index.html" useBuiltInWebServerPort="true">
+    <configuration name="HelloTriangle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3343/web gl/th3/ex1/HelloTriangle.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web gl/th2/ex1/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3343/web gl/example/b3e1ClickChuot/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="style.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/th2/ex3/style.js" working-dir="$PROJECT_DIR$/th2/ex3">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:3343/web gl/example/e3BienThuocTinh/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="style.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/th2/ex4/style.js" working-dir="$PROJECT_DIR$/th2/ex4">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/b2e3BienThuocTinh/script.js" working-dir="$PROJECT_DIR$/example/b2e3BienThuocTinh">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.HelloTriangle.html (1)" />
+        <item itemvalue="JavaScript Debug.HelloTriangle.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="Node.js.style.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="Node.js.style.js (2)" />
+        <item itemvalue="Node.js.script.js" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +112,11 @@
       <workItem from="1602036032590" duration="493000" />
       <workItem from="1602058728144" duration="1262000" />
       <workItem from="1602082255018" duration="739000" />
-      <workItem from="1603262854474" duration="6432000" />
+      <workItem from="1603262854474" duration="6524000" />
+      <workItem from="1603295295436" duration="37000" />
+      <workItem from="1603842389703" duration="16840000" />
+      <workItem from="1603953978991" duration="27000" />
+      <workItem from="1604255651969" duration="1363000" />
     </task>
     <servers />
   </component>
@@ -119,51 +132,63 @@
       <screen x="0" y="27" width="1308" height="741" />
     </state>
     <state x="404" y="47" width="489" height="708" key="#ex9.html/0.27.1308.741@0.27.1308.741" timestamp="1603264888712" />
-    <state x="418" y="177" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602082392620">
+    <state x="418" y="177" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603954007523">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state x="418" y="177" key="FileChooserDialogImpl/0.27.1308.741@0.27.1308.741" timestamp="1602082392620" />
+    <state x="418" y="177" width="424" height="491" key="FileChooserDialogImpl/0.27.1308.741@0.27.1308.741" timestamp="1603954007523" />
     <state x="768" y="1235" width="424" height="491" key="FileChooserDialogImpl/331.1080.1366.768/0.0.1639.1080@331.1080.1366.768" timestamp="1602036528830" />
-    <state width="1262" height="215" key="GridCell.Tab.0.bottom" timestamp="1603266356768">
+    <state width="1262" height="215" key="GridCell.Tab.0.bottom" timestamp="1603269554747">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.0.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603266356768" />
-    <state width="1262" height="215" key="GridCell.Tab.0.center" timestamp="1603266356767">
+    <state width="1262" height="215" key="GridCell.Tab.0.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603269554747" />
+    <state width="1262" height="215" key="GridCell.Tab.0.center" timestamp="1603269554746">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.0.center/0.27.1308.741@0.27.1308.741" timestamp="1603266356767" />
-    <state width="1262" height="215" key="GridCell.Tab.0.left" timestamp="1603266356766">
+    <state width="1262" height="215" key="GridCell.Tab.0.center/0.27.1308.741@0.27.1308.741" timestamp="1603269554746" />
+    <state width="1262" height="215" key="GridCell.Tab.0.left" timestamp="1603269554745">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.0.left/0.27.1308.741@0.27.1308.741" timestamp="1603266356766" />
-    <state width="1262" height="215" key="GridCell.Tab.0.right" timestamp="1603266356767">
+    <state width="1262" height="215" key="GridCell.Tab.0.left/0.27.1308.741@0.27.1308.741" timestamp="1603269554745" />
+    <state width="1262" height="215" key="GridCell.Tab.0.right" timestamp="1603269554747">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.0.right/0.27.1308.741@0.27.1308.741" timestamp="1603266356767" />
-    <state width="1262" height="215" key="GridCell.Tab.1.bottom" timestamp="1603266356770">
+    <state width="1262" height="215" key="GridCell.Tab.0.right/0.27.1308.741@0.27.1308.741" timestamp="1603269554747" />
+    <state width="1262" height="215" key="GridCell.Tab.1.bottom" timestamp="1603269554749">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.1.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603266356770" />
-    <state width="1262" height="215" key="GridCell.Tab.1.center" timestamp="1603266356769">
+    <state width="1262" height="215" key="GridCell.Tab.1.bottom/0.27.1308.741@0.27.1308.741" timestamp="1603269554749" />
+    <state width="1262" height="215" key="GridCell.Tab.1.center" timestamp="1603269554749">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.1.center/0.27.1308.741@0.27.1308.741" timestamp="1603266356769" />
-    <state width="1262" height="215" key="GridCell.Tab.1.left" timestamp="1603266356768">
+    <state width="1262" height="215" key="GridCell.Tab.1.center/0.27.1308.741@0.27.1308.741" timestamp="1603269554749" />
+    <state width="1262" height="215" key="GridCell.Tab.1.left" timestamp="1603269554748">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.1.left/0.27.1308.741@0.27.1308.741" timestamp="1603266356768" />
-    <state width="1262" height="215" key="GridCell.Tab.1.right" timestamp="1603266356769">
+    <state width="1262" height="215" key="GridCell.Tab.1.left/0.27.1308.741@0.27.1308.741" timestamp="1603269554748" />
+    <state width="1262" height="215" key="GridCell.Tab.1.right" timestamp="1603269554749">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state width="1262" height="215" key="GridCell.Tab.1.right/0.27.1308.741@0.27.1308.741" timestamp="1603266356769" />
-    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603263591518">
+    <state width="1262" height="215" key="GridCell.Tab.1.right/0.27.1308.741@0.27.1308.741" timestamp="1603269554749" />
+    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1603843815343">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1308.741@0.27.1308.741" timestamp="1603263591518" />
-    <state x="310" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1602082346861">
+    <state x="449" y="323" width="399" height="156" key="NewPhpFileDialog/0.27.1308.741@0.27.1308.741" timestamp="1603843815343" />
+    <state x="143" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603844997742">
       <screen x="0" y="27" width="1308" height="741" />
     </state>
-    <state x="310" y="225" key="com.intellij.ide.util.TipDialog/0.27.1308.741@0.27.1308.741" timestamp="1602082346861" />
+    <state x="143" y="31" width="1022" height="737" key="SettingsEditor/0.27.1308.741@0.27.1308.741" timestamp="1603844997742" />
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1603953983414">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="310" y="225" key="com.intellij.ide.util.TipDialog/0.27.1308.741@0.27.1308.741" timestamp="1603953983414" />
     <state x="388" y="289" key="com.intellij.ide.util.TipDialog/331.1080.1366.768/0.0.1639.1080@0.0.1639.1080" timestamp="1602036032785" />
+    <state x="318" y="174" key="run.anything.popup" timestamp="1603844356985">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="318" y="174" key="run.anything.popup/0.27.1308.741@0.27.1308.741" timestamp="1603844356985" />
+    <state x="317" y="89" width="670" height="676" key="search.everywhere.popup" timestamp="1603852459993">
+      <screen x="0" y="27" width="1308" height="741" />
+    </state>
+    <state x="317" y="89" width="670" height="676" key="search.everywhere.popup/0.27.1308.741@0.27.1308.741" timestamp="1603852459993" />
   </component>
 </project>
